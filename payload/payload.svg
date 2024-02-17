@@ -3,8 +3,7 @@
   <circle cx="50" cy="50" r="45" fill="green"
           id="foo"/>
   <script type="text/javascript">
-    // <![CDATA[
-      document.getElementById("foo").setAttribute("fill", "blue");
-   // ]]>
+    alert(1);
+       print(1);
   </script>
 </svg>
