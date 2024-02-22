@@ -1,8 +1,13 @@
 Credits: Reigz Macolor (https://github.com/reigz/)
+
 Tested On: Microweber 2.0.10 and below
+
 Affected Version: Microweber 2.0.10 - https://github.com/microweber/microweber/releases/tag/v2.0.10
-Affected Site: https://demo.microweber.org/demo/shop
+
+Affected Site Page: https://demo.microweber.org/demo/shop
+
 Fixed on Version: Microweber 2.0.10 - https://github.com/microweber/microweber/releases/tag/v2.0.11
+
 
 **Details:**
 Upon trying to checkout on your shop page on demo:
