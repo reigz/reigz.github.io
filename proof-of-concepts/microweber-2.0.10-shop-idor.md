@@ -17,7 +17,7 @@ Upon trying to checkout on your shop page on demo:
 ~~~http
 POST /api/update_cart HTTP/1.1
 ...
-content_id=<change_number_here>
+content_id=[change_number_here]
 ~~~
 
 ## **Vulnerability Impact:**
