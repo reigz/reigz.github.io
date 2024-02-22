@@ -3,7 +3,7 @@
 **Credits**: Reigz Macolor (https://github.com/reigz/)<br/>
 **Tested On**: Microweber 2.0.10 and 2.0.9.<br/>
 **Affected Version**: Microweber 2.0.10  and earlier.<br/>
-**Fixed on Version**: Microweber 2.0.10 - https://github.com/microweber/microweber/releases/tag/v2.0.11<br/>
+**Fixed on Version**: Microweber 2.0.11 - https://github.com/microweber/microweber/releases/tag/v2.0.11<br/>
 **Fix commit**: https://github.com/microweber/microweber/commit/af61a820194ea1ce2fff98f22262ea3d642920bb 
 
 **Affected Site Page**: /contact<br/>
